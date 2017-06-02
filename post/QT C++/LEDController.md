@@ -1,4 +1,8 @@
-﻿#QT LEDController项目的一些问题
+---
+layout: default
+---
+
+#QT LEDController项目的一些问题
 `这是第一篇用markdown来写的文，格式什么的应该比较单调吧，之后多多改进。`
 
 
